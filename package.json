@@ -1,0 +1,11 @@
+{
+  "name": "express-query-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "\"tlorback@gmail.com\"",
+  "license": "None",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moralis": "^2.9.0"
+  }
+}
